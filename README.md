@@ -1,5 +1,5 @@
 # Facial-Expression-Detection
-A facial expression detection algorithm written in python with opencv and tensorflow. Trained using Face expression recognition dataset. This algorithm can diffrentiate betewen Happy, Sad , Angry , Surprised and Neutarl. 
+A realtime facial expression detection algorithm written in python with opencv and tensorflow. Trained using Face expression recognition dataset. This algorithm can diffrentiate betewen Happy, Sad , Angry , Surprised and Neutarl. 
 
 # Dependencies
 
