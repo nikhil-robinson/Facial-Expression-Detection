@@ -21,7 +21,7 @@ python facialExpression.py
 
 # Note
 
-Make sure your wecam is not in use and can be access by the program
+Make sure your webcam is not in use and can be access by the program
 
 # Docker Build
 
