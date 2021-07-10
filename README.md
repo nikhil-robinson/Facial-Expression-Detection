@@ -21,5 +21,5 @@ python facialExpresion.py
 
 # Note
 
-Make sure your wecam is in use and can be asseced by the program
+Make sure your wecam is not in use and can be access by the program
 
