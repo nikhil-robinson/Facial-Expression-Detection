@@ -16,10 +16,16 @@ git clone https://github.com/nikhil-robinson/Facial-Expression-Detection
 
 pip install -r requirements.txt
 
-python facialExpresion.py
+python facialExpression.py
 
 
 # Note
 
 Make sure your wecam is not in use and can be access by the program
+
+# Docker Build
+
+docker build -t facial_expression
+
+docker run facial_expression
 
