@@ -7,8 +7,8 @@ from keras.models import load_model
 from keras.preprocessing import image
 
 path = os.getcwd()
-face = cv2.CascadeClassifier(path+'\haarcascade_frontalface_default.xml')
-model =load_model(path+'\model.h5')
+face = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+model =load_model('model.h5')
 emotion_labels = ['Angry','Disgust','Fear','Happy','Neutral', 'Sad', 'Surprise']
 cap = cv2.VideoCapture(0)
 
